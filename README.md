@@ -9,3 +9,4 @@
 1.[机型测试](https://rtmrw.parallel.jp/mycollection/sl-index.html)
 2. [入坑指南](https://sspai.com/post/64804)
 3. [新手入门](https://www.diocolle.com/category/newhand/)
+4. [N比例模型介绍](https://twrailmodel.wordpress.com/category/%E6%96%B0%E6%89%8B%E5%85%A5%E5%9D%91/)
