@@ -19,5 +19,9 @@
 5. [Tomix铺设举例2](https://www.tomytec.co.jp/tomix/information/img/pdf/beginnerpamph2.pdf)
 6. [Tomix铺设举例3](https://www.tomytec.co.jp/tomix/information/img/pdf/beginnerpamph3.pdf)
 7. [Tomix铺设举例4](https://www.tomytec.co.jp/tomix/nyumon/tomixrail/img/develop_basic.pdf)
+### 打印平台
+1. [斑竹](https://makerworld.com.cn/)
+2. [打印PCB](https://oshwhub.com/)
+3. 
 
 
