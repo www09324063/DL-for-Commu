@@ -4,6 +4,9 @@
 【用人话讲运筹学】三、对单纯形法的完善 - 哔哩哔哩
 
 最优化：建模、算法与理论/最优化计算方法
+## 学术网站
+1.[AlphaArxiv](https://www.alphaxiv.org/)
+2.
 
 ## N比例轨道模型
 1.[机型测试](https://rtmrw.parallel.jp/mycollection/sl-index.html)
