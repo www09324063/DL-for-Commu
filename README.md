@@ -10,10 +10,10 @@
 
 ## N比例轨道模型
 1.[机型测试](https://rtmrw.parallel.jp/mycollection/sl-index.html)
-1. [入坑指南](https://sspai.com/post/64804)
-2. [新手入门](https://www.diocolle.com/category/newhand/)
-3. [N比例模型介绍](https://twrailmodel.wordpress.com/category/%E6%96%B0%E6%89%8B%E5%85%A5%E5%9D%91/)
-4. [Tmoix和Kato模型评测](https://ngauge.jp/)
+2. [入坑指南](https://sspai.com/post/64804)
+3. [新手入门](https://www.diocolle.com/category/newhand/)
+4. [N比例模型介绍](https://twrailmodel.wordpress.com/category/%E6%96%B0%E6%89%8B%E5%85%A5%E5%9D%91/)
+5. [Tmoix和Kato模型评测](https://ngauge.jp/)
 ### Tomix轨道介绍
 1. [总介绍](https://www.tomytec.co.jp/tomix/nyumon/tomixrail/img/tomixrail_standard.pdf)
 2. [PL-541-15](https://www.tomytec.co.jp/tomix/products/n/1272.html)
