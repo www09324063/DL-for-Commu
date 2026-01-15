@@ -2,6 +2,11 @@
 ## 立创商城创业项目
 ### 多功能电源
 [地址](https://oshwhub.com/cyxsnbb666/typec-adjustable-power-supply-wi)
+## N比例网站增加
+1. [英文，MRH hobby](https://model-railroad-hobbyist.com/)
+2. [模型自制人： Geoff Bunza](https://forum.mrhmag.com/post/geoff-bunzas-blogjournal-index-12218222)
+3. [N比例论坛](https://www.therailwire.net/forum/)
+4. [美国N比例铁路爱好者网站](https://nrail.org/)
 ## 算法高级工程师
 1. 电梯智能控制算法研发
 
