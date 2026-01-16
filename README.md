@@ -8,6 +8,7 @@
 3. [Geoff 主页](https://www.scalemodelanimation.com/)
 4. [N比例论坛](https://www.therailwire.net/forum/)
 5. [美国N比例铁路爱好者网站](https://nrail.org/)
+6. [道岔改装](https://modelrailroadelectronics.blog/switch-machine-controllers/)
 ## 算法高级工程师
 1. 电梯智能控制算法研发
 
